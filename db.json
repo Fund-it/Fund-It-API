@@ -1,0 +1,45 @@
+{
+    "payments": [
+        {
+            "id": 1,
+            "date": "2023-20-10",
+            "qr_img": "sadasd.com",
+            "attendee_id": 4,
+            "organizer_id": 2
+        }
+    ],
+    "attendees": [
+        {
+            "id": 1,
+            "name": "sakdjh",
+            "user_name": "username2",
+            "email": "Dasdiego@sada.com",
+            "password": "sdhjasgdjashd"
+        }
+    ],
+    "organizers": [
+        {
+            "id": 1,
+            "user_name": "username2",
+            "email": "Diego@gmail.com",
+            "password": "sdhjasgdjashd"
+        },
+        {
+            "id": 2,
+            "name": "sakdjh",
+            "user_name": "username2",
+            "email": "Diego@gmail.com",
+            "password": "sdhjasgdjashd"
+        }
+    ],
+    "events": [
+        {
+            "id": 1,
+            "name": "sdasdas",
+            "info": "sadasdasdasdasd",
+            "date": "2021-12-12",
+            "type": "party",
+            "capacity": 300
+        }
+    ]
+}
